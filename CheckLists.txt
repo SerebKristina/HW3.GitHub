@@ -1,0 +1,8 @@
+a)Create System and Acceptance Tests
+b)Start Acceptance Test Creation
+c)Identify Test team
+d)Create Workplan 
+e)Create Test Approach
+f)Link Acceptance Criteria and Requirements to form the basis of Acceptance Testg)Use a subset of system test cases to form requirements portion of Acceptance Test
+h)Create scripts for use by the customer to demonstrate that the system meets requirements
+i)Create a Test schedule. Include people and all other resources.
